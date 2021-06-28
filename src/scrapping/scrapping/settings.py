@@ -55,7 +55,8 @@ ROOT_URLCONF = 'scrapping.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['/home/suhail_pk/Desktop/Web_Scrapping/virtual/src/templates'
+        'DIRS': ['/home/suhail_pk/Desktop/Web_Scrapping/src/templates'
+
 ],
         'APP_DIRS': True,
         'OPTIONS': {
